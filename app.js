@@ -95,5 +95,6 @@ function getInitialData() {
         "Rafael Bustillo": 1,
         "Sierra Hoss": 1,
         "Ashton Price": 1,
+        "Kennedy Johnson": 1,
     };
 }
