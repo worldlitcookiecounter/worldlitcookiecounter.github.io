@@ -92,7 +92,7 @@ function getInitialData() {
         "Benjamin Kelley": 1,
         "Logan Langley": 1,
         "Angela": 1,
-        "Rafael Bustillo": 1,
+        "Rafael Bustillo": 2,
         "Sierra Hoss": 1,
         "Ashton Price": 1,
         "Kennedy Johnson": 1,
