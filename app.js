@@ -79,7 +79,7 @@ function displayCookiesGivenLastClass() {
     var cookiesGivenText = document.createElement('p');
 
     // Set the value based on your data or update dynamically
-    var cookiesGivenLastClass = 1;
+    var cookiesGivenLastClass = 3;
 
     cookiesGivenText.textContent = 'Cookies Given Last Class: ' + cookiesGivenLastClass;
     cookiesGivenContainer.appendChild(cookiesGivenText);
