@@ -98,5 +98,6 @@ function getInitialData() {
         "Kennedy Johnson": 1,
         "Rachel Forsythe": 1,
         "Elise Henderson": 1,
+        "Lexi Aikman": 1,
     };
 }
