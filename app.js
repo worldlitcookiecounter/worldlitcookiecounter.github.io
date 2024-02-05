@@ -88,7 +88,7 @@ function displayCookiesGivenLastClass() {
 // Function to get initial student data
 function getInitialData() {
     return {
-        "Duncan Troup": 2,
+        "Duncan Troup": 3,
         "Benjamin Kelley": 1,
         "Logan Langley": 1,
         "Angela": 1,
