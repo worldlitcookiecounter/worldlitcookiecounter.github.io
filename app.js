@@ -100,7 +100,7 @@ function getInitialData() {
         "Elise Henderson": 1,
         "Lexi Aikman": 1,
         "Jaycie Jobe": 1,
-        "Jameson Tankersley (Thief of the red panda)": 1;
-        "Bailey Buetner (Swiftie 🤮)": -999999999999999999999999,
+        "Jameson Tankersley (Thief of the red panda)": 1,
+        "Bailey Buetner (Swiftie 🤮)": -9999999999999999,
     };
 }
