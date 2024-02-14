@@ -82,7 +82,7 @@ function displayCookiesGivenLastClass() {
     var cookiesGivenText = document.createElement('p');
 
     // Set the value based on your data or update dynamically
-    var cookiesGivenLastClass = 2;
+    var cookiesGivenLastClass = 4;
 
     cookiesGivenText.textContent = 'Cookies Given Last Class: ' + cookiesGivenLastClass;
     cookiesGivenContainer.appendChild(cookiesGivenText);
@@ -95,7 +95,7 @@ function getInitialData() {
         "Benjamin Kelley": 1,
         "Logan Langley": 1,
         "Angela": 1,
-        "Rafael Bustillo": 3,
+        "Rafael Bustillo": 5,
         "Sierra Hoss": 1,
         "Ashton Price": 1,
         "Kennedy Johnson": 1,
