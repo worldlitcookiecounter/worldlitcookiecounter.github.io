@@ -100,6 +100,7 @@ function getInitialData() {
         "Elise Henderson": 1,
         "Lexi Aikman": 1,
         "Jaycie Jobe": 1,
+        "Jameson Tankersley (Thief)": -1;
         "Bailey Buetner (Swiftie 🤮)": -999999999999999999999999,
     };
 }
