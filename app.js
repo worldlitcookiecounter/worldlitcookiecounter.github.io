@@ -91,7 +91,7 @@ function displayCookiesGivenLastClass() {
 // Function to get initial student data
 function getInitialData() {
     return {
-        "Duncan Troup": 3,
+        "Duncan Troup": 4,
         "Benjamin Kelley": 1,
         "Logan Langley": 2,
         "Angela": 1,
@@ -104,6 +104,7 @@ function getInitialData() {
         "Lexi Aikman": 2,
         "Jaycie Jobe": 1,
         "Jameson Tankersley (Thief of the red panda)": 1,
+        "Kennedy McGuire": 0.8,
         "Bailey Buettner (Swiftie 🤮)": -9999999999999999,
     };
 }
