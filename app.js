@@ -82,7 +82,7 @@ function displayCookiesGivenLastClass() {
     var cookiesGivenText = document.createElement('p');
 
     // Set the value based on your data or update dynamically
-    var cookiesGivenLastClass = 0;
+    var cookiesGivenLastClass = 3;
 
     cookiesGivenText.textContent = 'Cookies Given Last Class: ' + cookiesGivenLastClass;
     cookiesGivenContainer.appendChild(cookiesGivenText);
@@ -93,7 +93,7 @@ function getInitialData() {
     return {
         "Duncan Troup": 4,
         "Benjamin Kelley": 1,
-        "Logan Langley": 2,
+        "Logan Langley": 3,
         "Angela": 1,
         "Rafael Bustillo": 6,
         "Sierra Hoss": 1,
@@ -105,6 +105,7 @@ function getInitialData() {
         "Jaycie Jobe": 1,
         "Jameson Tankersley (Thief of the red panda)": 1,
         "Kennedy McGuire": 0.8,
+        "Ella Brinkley": 1,
         "Bailey Buettner (Swiftie 🤮)": -9999999999999999,
     };
 }
