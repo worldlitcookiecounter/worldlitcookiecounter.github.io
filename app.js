@@ -82,7 +82,7 @@ function displayCookiesGivenLastClass() {
     var cookiesGivenText = document.createElement('p');
 
     // Set the value based on your data or update dynamically
-    var cookiesGivenLastClass = 1;
+    var cookiesGivenLastClass = 0;
 
     cookiesGivenText.textContent = 'Cookies Given Last Class: ' + cookiesGivenLastClass;
     cookiesGivenContainer.appendChild(cookiesGivenText);
@@ -105,6 +105,6 @@ function getInitialData() {
         "Jaycie Jobe": 1,
         "Jameson Tankersley (Thief of the red panda)": 1,
         "Kennedy McGuire": 0.8,
-        "Ella Brinkley": 1,
+        "Ella Brinkley": 1,x
     };
 }
