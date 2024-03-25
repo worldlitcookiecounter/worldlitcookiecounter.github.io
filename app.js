@@ -103,7 +103,7 @@ function getInitialData() {
         "Elise Henderson": 1,
         "Lexi Aikman": 2,
         "Jaycie Jobe": 1,
-        "Jameson Tankersley (Thief of the red panda)": 1,
+        "Jameson Tankersley": 1,
         "Kennedy McGuire": 0.8,
         "Ella Brinkley": 1,
         "Reece Gray": 1,
