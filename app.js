@@ -97,7 +97,7 @@ function getInitialData() {
         "Angela": 1,
         "Rafael Bustillo": 7,
         "Sierra Hoss": 1,
-        "Ashton Price": 1,
+        "Ashton Price": 2,
         "Kennedy Johnson": 1,
         "Rachel Forsythe": 2,
         "Elise Henderson": 1,
