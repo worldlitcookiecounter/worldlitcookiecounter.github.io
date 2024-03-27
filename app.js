@@ -82,7 +82,7 @@ function displayCookiesGivenLastClass() {
     var cookiesGivenText = document.createElement('p');
 
     // Set the value based on your data or update dynamically
-    var cookiesGivenLastClass = 1;
+    var cookiesGivenLastClass = 3;
 
     cookiesGivenText.textContent = 'Cookies Given Last Class: ' + cookiesGivenLastClass;
     cookiesGivenContainer.appendChild(cookiesGivenText);
@@ -93,7 +93,7 @@ function getInitialData() {
     return {
         "Duncan Troup": 4,
         "Benjamin Kelley": 1,
-        "Logan Langley": 3,
+        "Logan Langley": 4,
         "Angela": 1,
         "Rafael Bustillo": 7,
         "Sierra Hoss": 1,
@@ -107,5 +107,6 @@ function getInitialData() {
         "Kennedy McGuire": 0.8,
         "Ella Brinkley": 1,
         "Reece Gray": 1,
+        "Tristan Richert": 1,
     };
 }
