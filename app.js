@@ -108,5 +108,6 @@ function getInitialData() {
         "Ella Brinkley": 1,
         "Reece Gray": 1,
         "Tristan Richert": 1,
+        "Grace Sexton": 1,
     };
 }
