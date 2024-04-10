@@ -64,9 +64,6 @@ function displayTotalCookies() {
     var totalCookiesContainer = document.getElementById('totalCookies');
     var students = getInitialData(); // Get initial student data
 
-    // Exclude Bailey Buetner's cookie count
-    delete students["Bailey Buetner (Swiftie 🤮)"];
-
     // Calculate total cookies
     var totalCookies = Object.values(students).reduce((total, count) => total + count, 0);
 
