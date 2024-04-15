@@ -88,23 +88,24 @@ function displayCookiesGivenLastClass() {
 // Function to get initial student data
 function getInitialData() {
     return {
-        "Duncan Troup": 4,
-        "Benjamin Kelley": 1,
-        "Logan Langley": 4,
-        "Angela": 1,
         "Rafael Bustillo": 7,
-        "Sierra Hoss": 1,
-        "Ashton Price": 2,
+        "Duncan Troup": 5,
+        "Landon Langley": 4,
+        "Lexi Aikman": 2,
         "Kennedy Johnson": 2,
         "Rachel Forsythe": 2,
-        "Elise Henderson": 1,
-        "Lexi Aikman": 2,
+        "Ashton Price": 2,
+        "Kennedy McGuire": 1.8,
+        "Angela": 1,
+        "Sierra Hoss": 1,
+        "Benjamin Kelley": 1,
         "Jaycie Jobe": 1,
         "Jameson Tankersley": 1,
-        "Kennedy McGuire": 1.8,
         "Ella Brinkley": 1,
+        "Elise Henderson": 1,
         "Reece Gray": 1,
         "Tristan Richert": 1,
         "Grace Sexton": 1,
+        "Hannah Mathews": 1,
     };
 }
