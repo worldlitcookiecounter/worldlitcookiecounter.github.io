@@ -90,7 +90,7 @@ function getInitialData() {
     return {
         "Rafael Bustillo": 7,
         "Duncan Troup": 5,
-        "Landon Langley": 4,
+        "Landon Langley": 5,
         "Lexi Aikman": 2,
         "Kennedy Johnson": 2,
         "Rachel Forsythe": 2,
